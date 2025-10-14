@@ -6,6 +6,8 @@
 [![Flask](https://img.shields.io/badge/flask-lightgrey)](https://flask.palletsprojects.com/)
 [![pandas](https://img.shields.io/badge/pandas-data-yellowgreen)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/)
+
+
 A lightweight, explainable hybrid recommendation engine that ranks posts for each user by blending content relevance, social proof, and recency. This README is short, actionable, and visually rich — icons and emojis added to make scanning easier. ✨
 
 ---
@@ -184,7 +186,5 @@ Roadmap & contributing 🌱
 - Swap TF–IDF for Transformer embeddings option
 To contribute: fork → feature branch → PR. Small CSV fixtures help testing.
 
-License ⚖️
-- MIT — see LICENSE file.
 
-Made with ❤️ by @EniyanA2113 — emojis and icons added across the README for clarity and flair. If you'd like, I can now push this README into your repository and/or implement the single-user endpoint with per-post score breakdown next.
+Made with ❤️ by @EniyanA2113 
