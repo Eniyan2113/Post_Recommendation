@@ -1,4 +1,4 @@
-"post_id","user_id","content","is_anonymous","created_at","updated_at","topics","like_user_ids","shares","reports","likes"
+"pip install scikit-learnpost_id","user_id","content","is_anonymous","created_at","updated_at","topics","like_user_ids","shares","reports","likes"
 "4858","18","Indian Companies Exposure To US . The List Contains Indian Companies With Total Buisness Exposure To US. Some Of Them Are Highly Exposed To US Market For Buisness","FALSE","Oct. 6, 2025, 12:50 p.m.","Oct. 6, 2025, 12:54 p.m.","","4,10,6,69,14,13,2,62,11,9,7,12,3,5,8","26","0","15"
 "4857","17","Many Of IPO Are Oversubscribing To 100X 200X And As A Result Many Of Us Are Not Getting Allotments. That's The Story Of Many Of Us. Personally I Tried To Apply In Many And Got Very Few Allotments.","FALSE","Oct. 6, 2025, 12:44 p.m.","Oct. 6, 2025, 12:54 p.m.","","4,2,62,3,5","20","0","5"
 "4830","","Where do you see the potential of this stock in coming months or years","TRUE","Oct. 6, 2025, 12:35 p.m.","Oct. 6, 2025, 12:39 p.m.","","69,2,62","23","0","4"
